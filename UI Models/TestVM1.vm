@@ -1,0 +1,45 @@
+{"editors": {
+    "variables": {},
+    "tabName": "TestVM1.vm",
+    "packIcon": {
+        "fileJson": "",
+        "fileName": "",
+        "displayName": "",
+        "source": "",
+        "projectName": "",
+        "type": "image"
+    },
+    "isValid": true,
+    "index": 0,
+    "url": "/rest",
+    "customVariables": {
+        "checksum_old": "",
+        "list": [],
+        "checksum_new": 0
+    },
+    "customClasses": {},
+    "pages": [{
+        "pageLifeCycle": {
+            "selectedlifecycle": "",
+            "lifeCycle": []
+        },
+        "checksum_old": "",
+        "defaultPage": true,
+        "validName": true,
+        "name": "View1",
+        "id": "xxx_3982014",
+        "validUrl": true,
+        "routingUrl": "view1",
+        "content": {
+            "css": ".wrapper_asg_bkgrd",
+            "wrapperclasses": ".wrapper_asg_bkgrd",
+            "wrapperstyles": "",
+            "html": "<div ui-modeller-type=\"header\" id=\"header-pqikobz9cgj\" label=\"View-1\" class=\"header\"><span id=\"span-n5rz11pqnmj\">View-1<\/span><\/div><div ui-modeller-type=\"header\" label=\"Heading\" id=\"header-m7sbaq90p5e\" validations-id-mapping=\"{&quot;Id&quot;:&quot;68785d96-aa89-4fb0-b5ac-0c98657b9928&quot;}\" class=\"header\"><span id=\"span-ogrn60qp0dg\">Heading<\/span><\/div><div ui-modeller-type=\"um-container\" id=\"um-container-65v15ptadak\" class=\"um-control\"><button ui-modeller-type=\"button\" label=\"Click Me\" color=\"primary\" mat-flat-button=\"\" badgecolor=\"#ff4081\" badgesize=\"small\" badgeposition=\"above after\" badgetextcolor=\"#ffffff\" badgeoverlap=\"yes\" iconpos=\"left\" id=\"button-ndr5o0wmyua\" class=\"um-button-icon um-mat-button um-primary-button mat-flat-button mat-primary\"><span data-label-wrapper=\"\" data-invisible=\"\" id=\"span-erjxkvwu94\" class=\"mat-button-wrapper\">Click Me<\/span><span data-menu-wrapper=\"\" id=\"span-pi8rkbnz0nn\" class=\"button-menu-span\"><\/span><div data-invisible=\"\" matripple=\"\" id=\"div-bf0ja3u4krj\" class=\"mat-button-ripple mat-ripple\"><\/div><div data-invisible=\"\" id=\"div-rq84odre88\" class=\"mat-button-focus-overlay\"><\/div><\/button><\/div>"
+        },
+        "checksum_new": 4199955878
+    }],
+    "assets": [],
+    "id": "mdt_visual_editor_root",
+    "validations": {},
+    "globalCss": "*{ box-sizing: border-box; } body{margin: 0;} .fix8d0a106e05b2{position: fixed;}"
+}}
