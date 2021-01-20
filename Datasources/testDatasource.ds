@@ -1,0 +1,27 @@
+{"content": {
+    "datasourceType": 0,
+    "datasourceProperties": {
+        "connectionMeta": {
+            "instance": "",
+            "port": "5432",
+            "host": "localhost",
+            "driverName": "Thin",
+            "connectionType": false,
+            "sid": ""
+        },
+        "password": "latest",
+        "databaseName": "IDP",
+        "jdbcString": "jdbc:postgresql://localhost:5432/IDP",
+        "vendor": "PostgreSQL",
+        "poolSize": 3,
+        "isEncrypted": true,
+        "isJdbcUrl": false,
+        "datasourceId": "b8d6f9a6-eb24-4735-84b4-120178600852",
+        "active": 1,
+        "id": "91955efc-575f-47da-a497-8b3cb567269e",
+        "username": "postgres"
+    },
+    "name": "testDatasource",
+    "id": "b8d6f9a6-eb24-4735-84b4-120178600852",
+    "applicationId": "b7f04ef5-767c-403b-92dc-89bf95220ead"
+}}
